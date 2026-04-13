@@ -130,17 +130,12 @@ GitHub Actions is used to automatically build the project whenever changes are p
 
 ## CI Screenshot
 
-(ADD YOUR SCREENSHOT HERE AFTER RUNNING CI)
 
-![CI Screenshot](ci-screenshot.png)
 
 ---
 
 ## GitHub Repository
 
-(ADD YOUR REPOSITORY LINK HERE)
-
-Example:
 https://github.com/LATHANE-KAMOGELO/Cyber-Security-Awareness-Bot
 
 ---
