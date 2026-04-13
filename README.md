@@ -142,11 +142,7 @@ https://github.com/LATHANE-KAMOGELO/Cyber-Security-Awareness-Bot
 
 ## YouTube Presentation
 
-(ADD YOUR UNLISTED VIDEO LINK HERE)
-
-Example:
-https://youtube.com/your-video-link
-
+https://youtu.be/fDMrueMsURI
 ---
 
 ## Conclusion
